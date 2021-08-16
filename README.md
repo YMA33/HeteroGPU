@@ -18,5 +18,5 @@ See our [arXiv](https://arxiv.org/abs/) paper for more details.
 - TensorFlow 2.5.0
 
 ## Datasets
-(/figures/dataset.png)
+!(/figures/dataset.png)
 The datasets can be downloaded from [link](http://manikvarma.org/downloads/XC/XMLRepository.html).
